@@ -1,0 +1,12 @@
+---
+Name: EnderPerlCooldown
+version: 1.0.0
+main: zherenn\EnderPerlCooldown\EnderPerlCooldown
+api:
+- 4.0.0
+author: zherenn
+website: https://github.com/josusyai
+permissions:
+  enderperlcooldown.cmd:
+    default: op
+    description: You need permissions to execute this Command!
