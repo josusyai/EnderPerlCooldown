@@ -10,3 +10,4 @@ permissions:
   enderperlcooldown.cmd:
     default: op
     description: You need permissions to execute this Command!
+...
